@@ -1,0 +1,984 @@
+
+0: 320x416 (no detections), 609.3ms
+Speed: 27.1ms preprocess, 609.3ms inference, 75.9ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 54.3ms
+Speed: 3.5ms preprocess, 54.3ms inference, 4.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 55.4ms
+Speed: 6.8ms preprocess, 55.4ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 39.2ms
+Speed: 3.5ms preprocess, 39.2ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 73.7ms
+Speed: 4.6ms preprocess, 73.7ms inference, 8.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 108.1ms
+Speed: 9.0ms preprocess, 108.1ms inference, 9.3ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 107.8ms
+Speed: 9.0ms preprocess, 107.8ms inference, 351.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 56.2ms
+Speed: 2.6ms preprocess, 56.2ms inference, 117.2ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 48.1ms
+Speed: 3.0ms preprocess, 48.1ms inference, 2.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 45.9ms
+Speed: 2.1ms preprocess, 45.9ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 48.6ms
+Speed: 3.0ms preprocess, 48.6ms inference, 2.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 39.7ms
+Speed: 3.0ms preprocess, 39.7ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 57.8ms
+Speed: 3.6ms preprocess, 57.8ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 50.2ms
+Speed: 3.0ms preprocess, 50.2ms inference, 5.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 53.5ms
+Speed: 4.4ms preprocess, 53.5ms inference, 8.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 38.8ms
+Speed: 3.5ms preprocess, 38.8ms inference, 4.3ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 40.9ms
+Speed: 3.0ms preprocess, 40.9ms inference, 4.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 42.3ms
+Speed: 4.6ms preprocess, 42.3ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 54.0ms
+Speed: 3.4ms preprocess, 54.0ms inference, 5.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 48.9ms
+Speed: 4.0ms preprocess, 48.9ms inference, 5.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 40.0ms
+Speed: 4.1ms preprocess, 40.0ms inference, 3.4ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 38.6ms
+Speed: 3.1ms preprocess, 38.6ms inference, 3.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 40.6ms
+Speed: 4.0ms preprocess, 40.6ms inference, 2.9ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 37.5ms
+Speed: 3.3ms preprocess, 37.5ms inference, 3.9ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 41.4ms
+Speed: 2.7ms preprocess, 41.4ms inference, 4.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 37.9ms
+Speed: 4.6ms preprocess, 37.9ms inference, 5.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 36.5ms
+Speed: 2.9ms preprocess, 36.5ms inference, 3.3ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 46.6ms
+Speed: 2.7ms preprocess, 46.6ms inference, 2.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 40.4ms
+Speed: 4.5ms preprocess, 40.4ms inference, 5.2ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 43.7ms
+Speed: 6.0ms preprocess, 43.7ms inference, 4.2ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 45.8ms
+Speed: 4.0ms preprocess, 45.8ms inference, 4.9ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 44.9ms
+Speed: 2.2ms preprocess, 44.9ms inference, 2.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 47.7ms
+Speed: 2.5ms preprocess, 47.7ms inference, 6.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 43.7ms
+Speed: 3.0ms preprocess, 43.7ms inference, 5.9ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 52.6ms
+Speed: 4.5ms preprocess, 52.6ms inference, 5.4ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 45.4ms
+Speed: 5.0ms preprocess, 45.4ms inference, 4.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 33.2ms
+Speed: 4.0ms preprocess, 33.2ms inference, 2.4ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 40.0ms
+Speed: 4.4ms preprocess, 40.0ms inference, 2.3ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 51.5ms
+Speed: 3.3ms preprocess, 51.5ms inference, 4.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 50.2ms
+Speed: 6.4ms preprocess, 50.2ms inference, 4.2ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 42.3ms
+Speed: 5.8ms preprocess, 42.3ms inference, 4.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 55.3ms
+Speed: 4.2ms preprocess, 55.3ms inference, 7.4ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 42.2ms
+Speed: 4.0ms preprocess, 42.2ms inference, 3.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 37.8ms
+Speed: 4.7ms preprocess, 37.8ms inference, 3.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 39.6ms
+Speed: 4.5ms preprocess, 39.6ms inference, 3.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 39.8ms
+Speed: 5.5ms preprocess, 39.8ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 39.1ms
+Speed: 3.8ms preprocess, 39.1ms inference, 4.3ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 27.0ms
+Speed: 4.5ms preprocess, 27.0ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 27.5ms
+Speed: 4.5ms preprocess, 27.5ms inference, 2.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 30.9ms
+Speed: 4.0ms preprocess, 30.9ms inference, 2.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 34.2ms
+Speed: 5.6ms preprocess, 34.2ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 33.0ms
+Speed: 5.0ms preprocess, 33.0ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 34.4ms
+Speed: 6.8ms preprocess, 34.4ms inference, 3.9ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 78.4ms
+Speed: 10.6ms preprocess, 78.4ms inference, 4.2ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 33.3ms
+Speed: 4.4ms preprocess, 33.3ms inference, 2.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 31.3ms
+Speed: 3.6ms preprocess, 31.3ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 32.4ms
+Speed: 4.2ms preprocess, 32.4ms inference, 2.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 33.6ms
+Speed: 5.0ms preprocess, 33.6ms inference, 2.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 43.0ms
+Speed: 9.0ms preprocess, 43.0ms inference, 2.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 31.2ms
+Speed: 3.5ms preprocess, 31.2ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 49.4ms
+Speed: 5.0ms preprocess, 49.4ms inference, 7.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 37.1ms
+Speed: 4.0ms preprocess, 37.1ms inference, 4.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 38.6ms
+Speed: 4.4ms preprocess, 38.6ms inference, 7.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 47.1ms
+Speed: 4.7ms preprocess, 47.1ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 39.7ms
+Speed: 5.1ms preprocess, 39.7ms inference, 4.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 43.6ms
+Speed: 5.0ms preprocess, 43.6ms inference, 4.3ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 41.2ms
+Speed: 3.1ms preprocess, 41.2ms inference, 4.8ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 84.5ms
+Speed: 11.0ms preprocess, 84.5ms inference, 5.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 54.6ms
+Speed: 10.1ms preprocess, 54.6ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 66.9ms
+Speed: 10.3ms preprocess, 66.9ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 33.9ms
+Speed: 4.0ms preprocess, 33.9ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 49.7ms
+Speed: 5.6ms preprocess, 49.7ms inference, 2.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 32.6ms
+Speed: 3.0ms preprocess, 32.6ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 53.8ms
+Speed: 6.2ms preprocess, 53.8ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 52.4ms
+Speed: 5.0ms preprocess, 52.4ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 70.5ms
+Speed: 8.1ms preprocess, 70.5ms inference, 3.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 49.2ms
+Speed: 6.0ms preprocess, 49.2ms inference, 3.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 36.8ms
+Speed: 3.4ms preprocess, 36.8ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 40.2ms
+Speed: 7.1ms preprocess, 40.2ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 38.4ms
+Speed: 5.0ms preprocess, 38.4ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 37.6ms
+Speed: 4.0ms preprocess, 37.6ms inference, 3.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 34.1ms
+Speed: 4.0ms preprocess, 34.1ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 42.2ms
+Speed: 7.2ms preprocess, 42.2ms inference, 2.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 51.8ms
+Speed: 9.2ms preprocess, 51.8ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 50.0ms
+Speed: 4.6ms preprocess, 50.0ms inference, 2.9ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 98.6ms
+Speed: 7.2ms preprocess, 98.6ms inference, 5.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 109.5ms
+Speed: 10.3ms preprocess, 109.5ms inference, 8.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 27.6ms
+Speed: 3.0ms preprocess, 27.6ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 28.1ms
+Speed: 5.6ms preprocess, 28.1ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 81.3ms
+Speed: 5.2ms preprocess, 81.3ms inference, 4.1ms postprocess per image at shape (1, 3, 320, 416)
+
+
+0: 320x416 1 Weeds, 489.6ms
+Speed: 6.1ms preprocess, 489.6ms inference, 9.1ms postprocess per image at shape (1, 3, 320, 416)
+0: 320x416 (no detections), 46.3ms
+Speed: 4.0ms preprocess, 46.3ms inference, 2.9ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 29.5ms
+Speed: 3.0ms preprocess, 29.5ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 29.5ms
+Speed: 4.0ms preprocess, 29.5ms inference, 6.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 28.0ms
+Speed: 4.0ms preprocess, 28.0ms inference, 5.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 28.2ms
+Speed: 2.5ms preprocess, 28.2ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 35.3ms
+Speed: 3.0ms preprocess, 35.3ms inference, 2.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 34.3ms
+Speed: 3.0ms preprocess, 34.3ms inference, 3.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 33.3ms
+Speed: 3.8ms preprocess, 33.3ms inference, 5.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 49.5ms
+Speed: 6.0ms preprocess, 49.5ms inference, 4.9ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 80.4ms
+Speed: 3.1ms preprocess, 80.4ms inference, 17.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 48.7ms
+Speed: 7.7ms preprocess, 48.7ms inference, 6.2ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 28.3ms
+Speed: 3.2ms preprocess, 28.3ms inference, 3.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 30.5ms
+Speed: 2.0ms preprocess, 30.5ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 50.6ms
+Speed: 5.4ms preprocess, 50.6ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 46.1ms
+Speed: 4.1ms preprocess, 46.1ms inference, 4.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 67.1ms
+Speed: 7.6ms preprocess, 67.1ms inference, 13.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 66.4ms
+Speed: 5.5ms preprocess, 66.4ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 38.4ms
+Speed: 4.0ms preprocess, 38.4ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 78.2ms
+Speed: 6.0ms preprocess, 78.2ms inference, 4.3ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 35.0ms
+Speed: 3.3ms preprocess, 35.0ms inference, 4.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 71.6ms
+Speed: 4.5ms preprocess, 71.6ms inference, 4.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 113.0ms
+Speed: 6.0ms preprocess, 113.0ms inference, 8.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 73.1ms
+Speed: 6.9ms preprocess, 73.1ms inference, 8.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 88.3ms
+Speed: 6.8ms preprocess, 88.3ms inference, 2.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 122.5ms
+Speed: 13.3ms preprocess, 122.5ms inference, 12.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 119.7ms
+Speed: 7.5ms preprocess, 119.7ms inference, 3.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 60.1ms
+Speed: 5.0ms preprocess, 60.1ms inference, 7.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 63.1ms
+Speed: 8.0ms preprocess, 63.1ms inference, 4.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 111.1ms
+Speed: 7.6ms preprocess, 111.1ms inference, 4.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 46.2ms
+Speed: 6.1ms preprocess, 46.2ms inference, 3.4ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 100.3ms
+Speed: 12.6ms preprocess, 100.3ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 66.7ms
+Speed: 4.6ms preprocess, 66.7ms inference, 5.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 35.0ms
+Speed: 3.8ms preprocess, 35.0ms inference, 1.9ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 59.4ms
+Speed: 8.3ms preprocess, 59.4ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 46.3ms
+Speed: 6.4ms preprocess, 46.3ms inference, 4.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 48.9ms
+Speed: 5.5ms preprocess, 48.9ms inference, 4.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 90.4ms
+Speed: 9.0ms preprocess, 90.4ms inference, 5.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 88.2ms
+Speed: 9.5ms preprocess, 88.2ms inference, 2.8ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 27.6ms
+Speed: 3.0ms preprocess, 27.6ms inference, 6.2ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 98.5ms
+Speed: 7.7ms preprocess, 98.5ms inference, 8.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 132.9ms
+Speed: 10.7ms preprocess, 132.9ms inference, 4.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 34.5ms
+Speed: 4.6ms preprocess, 34.5ms inference, 12.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 99.6ms
+Speed: 7.9ms preprocess, 99.6ms inference, 4.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 98.2ms
+Speed: 6.2ms preprocess, 98.2ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 57.2ms
+Speed: 5.0ms preprocess, 57.2ms inference, 6.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 62.0ms
+Speed: 6.1ms preprocess, 62.0ms inference, 4.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 41.6ms
+Speed: 5.1ms preprocess, 41.6ms inference, 3.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 28.4ms
+Speed: 4.0ms preprocess, 28.4ms inference, 4.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 28.5ms
+Speed: 3.0ms preprocess, 28.5ms inference, 3.2ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 28.0ms
+Speed: 4.6ms preprocess, 28.0ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 33.6ms
+Speed: 4.6ms preprocess, 33.6ms inference, 4.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 31.7ms
+Speed: 6.0ms preprocess, 31.7ms inference, 3.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 52.6ms
+Speed: 3.6ms preprocess, 52.6ms inference, 1.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 26.3ms
+Speed: 4.5ms preprocess, 26.3ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 39.8ms
+Speed: 3.7ms preprocess, 39.8ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 33.8ms
+Speed: 5.1ms preprocess, 33.8ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 31.1ms
+Speed: 5.0ms preprocess, 31.1ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 31.7ms
+Speed: 4.0ms preprocess, 31.7ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 30.6ms
+Speed: 4.0ms preprocess, 30.6ms inference, 4.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 38.3ms
+Speed: 4.0ms preprocess, 38.3ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 108.7ms
+Speed: 4.0ms preprocess, 108.7ms inference, 5.9ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 58.2ms
+Speed: 11.0ms preprocess, 58.2ms inference, 15.2ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 52.2ms
+Speed: 4.8ms preprocess, 52.2ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 49.5ms
+Speed: 6.0ms preprocess, 49.5ms inference, 8.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 160.7ms
+Speed: 6.0ms preprocess, 160.7ms inference, 5.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 79.9ms
+Speed: 2.0ms preprocess, 79.9ms inference, 15.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 36.3ms
+Speed: 3.9ms preprocess, 36.3ms inference, 1.8ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 33.8ms
+Speed: 5.0ms preprocess, 33.8ms inference, 5.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 101.7ms
+Speed: 8.3ms preprocess, 101.7ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 79.4ms
+Speed: 10.3ms preprocess, 79.4ms inference, 4.9ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 66.6ms
+Speed: 9.9ms preprocess, 66.6ms inference, 6.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 69.1ms
+Speed: 6.0ms preprocess, 69.1ms inference, 5.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 80.0ms
+Speed: 8.2ms preprocess, 80.0ms inference, 9.9ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 36.9ms
+Speed: 6.9ms preprocess, 36.9ms inference, 1.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 48.7ms
+Speed: 5.8ms preprocess, 48.7ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 33.6ms
+Speed: 4.2ms preprocess, 33.6ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 45.1ms
+Speed: 5.0ms preprocess, 45.1ms inference, 3.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 41.1ms
+Speed: 4.9ms preprocess, 41.1ms inference, 4.2ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 40.5ms
+Speed: 4.0ms preprocess, 40.5ms inference, 4.4ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 38.4ms
+Speed: 4.4ms preprocess, 38.4ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 41.8ms
+Speed: 4.0ms preprocess, 41.8ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 30.7ms
+Speed: 5.0ms preprocess, 30.7ms inference, 4.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 54.6ms
+Speed: 11.0ms preprocess, 54.6ms inference, 5.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 87.8ms
+Speed: 4.0ms preprocess, 87.8ms inference, 7.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 98.9ms
+Speed: 8.3ms preprocess, 98.9ms inference, 6.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 74.6ms
+Speed: 5.4ms preprocess, 74.6ms inference, 6.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 80.1ms
+Speed: 7.7ms preprocess, 80.1ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 115.0ms
+Speed: 9.2ms preprocess, 115.0ms inference, 8.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 52.8ms
+Speed: 4.0ms preprocess, 52.8ms inference, 9.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 67.0ms
+Speed: 11.6ms preprocess, 67.0ms inference, 6.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 124.9ms
+Speed: 9.5ms preprocess, 124.9ms inference, 13.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 79.3ms
+Speed: 12.6ms preprocess, 79.3ms inference, 4.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 102.7ms
+Speed: 4.7ms preprocess, 102.7ms inference, 18.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 57.1ms
+Speed: 4.9ms preprocess, 57.1ms inference, 4.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 31.1ms
+Speed: 3.0ms preprocess, 31.1ms inference, 5.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 139.3ms
+Speed: 9.1ms preprocess, 139.3ms inference, 25.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 111.0ms
+Speed: 11.5ms preprocess, 111.0ms inference, 9.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 112.6ms
+Speed: 3.1ms preprocess, 112.6ms inference, 6.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 29.6ms
+Speed: 3.0ms preprocess, 29.6ms inference, 5.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 99.9ms
+Speed: 7.3ms preprocess, 99.9ms inference, 7.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 102.9ms
+Speed: 3.8ms preprocess, 102.9ms inference, 16.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 60.0ms
+Speed: 7.1ms preprocess, 60.0ms inference, 6.2ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 57.1ms
+Speed: 5.6ms preprocess, 57.1ms inference, 8.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 51.6ms
+Speed: 6.2ms preprocess, 51.6ms inference, 7.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 49.8ms
+Speed: 5.0ms preprocess, 49.8ms inference, 7.8ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 38.7ms
+Speed: 3.9ms preprocess, 38.7ms inference, 5.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 30.3ms
+Speed: 2.9ms preprocess, 30.3ms inference, 6.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 27.8ms
+Speed: 3.0ms preprocess, 27.8ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 32.0ms
+Speed: 4.0ms preprocess, 32.0ms inference, 7.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 27.4ms
+Speed: 4.0ms preprocess, 27.4ms inference, 3.3ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 28.0ms
+Speed: 3.1ms preprocess, 28.0ms inference, 2.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 27.4ms
+Speed: 4.3ms preprocess, 27.4ms inference, 3.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 27.9ms
+Speed: 3.0ms preprocess, 27.9ms inference, 7.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 33.6ms
+Speed: 5.0ms preprocess, 33.6ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 27.0ms
+Speed: 3.0ms preprocess, 27.0ms inference, 4.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 70.8ms
+Speed: 10.0ms preprocess, 70.8ms inference, 6.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 25.8ms
+Speed: 4.0ms preprocess, 25.8ms inference, 5.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 24.1ms
+Speed: 4.6ms preprocess, 24.1ms inference, 1.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 45.3ms
+Speed: 9.6ms preprocess, 45.3ms inference, 5.2ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 43.1ms
+Speed: 3.5ms preprocess, 43.1ms inference, 6.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 47.8ms
+Speed: 4.0ms preprocess, 47.8ms inference, 5.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 55.6ms
+Speed: 3.8ms preprocess, 55.6ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 47.9ms
+Speed: 6.3ms preprocess, 47.9ms inference, 1.4ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 64.1ms
+Speed: 4.3ms preprocess, 64.1ms inference, 4.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 33.9ms
+Speed: 4.2ms preprocess, 33.9ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 28.2ms
+Speed: 3.7ms preprocess, 28.2ms inference, 2.2ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 26.3ms
+Speed: 5.0ms preprocess, 26.3ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 26.2ms
+Speed: 4.0ms preprocess, 26.2ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 28.6ms
+Speed: 4.5ms preprocess, 28.6ms inference, 5.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 29.3ms
+Speed: 5.6ms preprocess, 29.3ms inference, 2.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 116.9ms
+Speed: 10.7ms preprocess, 116.9ms inference, 14.9ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 39.3ms
+Speed: 11.0ms preprocess, 39.3ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 29.1ms
+Speed: 4.0ms preprocess, 29.1ms inference, 2.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 85.0ms
+Speed: 5.5ms preprocess, 85.0ms inference, 3.8ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 30.1ms
+Speed: 4.4ms preprocess, 30.1ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 130.6ms
+Speed: 7.0ms preprocess, 130.6ms inference, 14.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 76.7ms
+Speed: 4.9ms preprocess, 76.7ms inference, 2.8ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 124.8ms
+Speed: 7.6ms preprocess, 124.8ms inference, 16.9ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 68.7ms
+Speed: 13.3ms preprocess, 68.7ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 50.0ms
+Speed: 12.4ms preprocess, 50.0ms inference, 4.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 29.7ms
+Speed: 4.0ms preprocess, 29.7ms inference, 4.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 87.0ms
+Speed: 3.5ms preprocess, 87.0ms inference, 9.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 120.4ms
+Speed: 6.8ms preprocess, 120.4ms inference, 11.4ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 123.4ms
+Speed: 7.5ms preprocess, 123.4ms inference, 25.3ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 119.2ms
+Speed: 11.6ms preprocess, 119.2ms inference, 8.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 93.7ms
+Speed: 11.0ms preprocess, 93.7ms inference, 8.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 176.2ms
+Speed: 13.2ms preprocess, 176.2ms inference, 8.4ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 37.5ms
+Speed: 5.1ms preprocess, 37.5ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 32.1ms
+Speed: 4.1ms preprocess, 32.1ms inference, 5.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 135.3ms
+Speed: 4.0ms preprocess, 135.3ms inference, 11.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 72.6ms
+Speed: 10.3ms preprocess, 72.6ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 57.6ms
+Speed: 4.0ms preprocess, 57.6ms inference, 4.2ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 30.6ms
+Speed: 6.0ms preprocess, 30.6ms inference, 6.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 119.7ms
+Speed: 8.0ms preprocess, 119.7ms inference, 8.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 76.4ms
+Speed: 5.7ms preprocess, 76.4ms inference, 6.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 33.4ms
+Speed: 3.0ms preprocess, 33.4ms inference, 1.9ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 40.0ms
+Speed: 2.0ms preprocess, 40.0ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 112.3ms
+Speed: 11.3ms preprocess, 112.3ms inference, 4.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 118.1ms
+Speed: 11.6ms preprocess, 118.1ms inference, 9.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 102.6ms
+Speed: 9.4ms preprocess, 102.6ms inference, 4.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 75.8ms
+Speed: 11.6ms preprocess, 75.8ms inference, 7.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 68.6ms
+Speed: 7.8ms preprocess, 68.6ms inference, 3.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 50.3ms
+Speed: 6.9ms preprocess, 50.3ms inference, 4.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 90.4ms
+Speed: 3.0ms preprocess, 90.4ms inference, 7.4ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 48.0ms
+Speed: 6.0ms preprocess, 48.0ms inference, 7.2ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 107.8ms
+Speed: 13.8ms preprocess, 107.8ms inference, 4.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 114.1ms
+Speed: 12.1ms preprocess, 114.1ms inference, 7.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 66.6ms
+Speed: 3.0ms preprocess, 66.6ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 44.2ms
+Speed: 6.0ms preprocess, 44.2ms inference, 4.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 29.4ms
+Speed: 4.5ms preprocess, 29.4ms inference, 2.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 29.9ms
+Speed: 2.9ms preprocess, 29.9ms inference, 3.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 29.2ms
+Speed: 2.8ms preprocess, 29.2ms inference, 3.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 39.6ms
+Speed: 4.0ms preprocess, 39.6ms inference, 3.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 27.0ms
+Speed: 4.3ms preprocess, 27.0ms inference, 2.3ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 26.9ms
+Speed: 3.6ms preprocess, 26.9ms inference, 1.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 30.8ms
+Speed: 4.6ms preprocess, 30.8ms inference, 4.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 44.9ms
+Speed: 3.5ms preprocess, 44.9ms inference, 8.8ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 63.6ms
+Speed: 6.8ms preprocess, 63.6ms inference, 8.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 61.3ms
+Speed: 6.5ms preprocess, 61.3ms inference, 4.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 48.3ms
+Speed: 4.7ms preprocess, 48.3ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 44.6ms
+Speed: 4.6ms preprocess, 44.6ms inference, 3.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 41.4ms
+Speed: 5.2ms preprocess, 41.4ms inference, 7.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 38.3ms
+Speed: 4.7ms preprocess, 38.3ms inference, 2.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 28.9ms
+Speed: 4.0ms preprocess, 28.9ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 32.7ms
+Speed: 3.6ms preprocess, 32.7ms inference, 1.9ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 30.7ms
+Speed: 4.9ms preprocess, 30.7ms inference, 2.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 27.3ms
+Speed: 5.7ms preprocess, 27.3ms inference, 1.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 47.0ms
+Speed: 5.8ms preprocess, 47.0ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 28.2ms
+Speed: 4.1ms preprocess, 28.2ms inference, 2.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 26.1ms
+Speed: 4.2ms preprocess, 26.1ms inference, 2.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 26.6ms
+Speed: 4.5ms preprocess, 26.6ms inference, 3.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 25.0ms
+Speed: 3.6ms preprocess, 25.0ms inference, 2.8ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 27.6ms
+Speed: 3.6ms preprocess, 27.6ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 89.6ms
+Speed: 6.9ms preprocess, 89.6ms inference, 4.9ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 28.6ms
+Speed: 5.0ms preprocess, 28.6ms inference, 7.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 110.9ms
+Speed: 10.0ms preprocess, 110.9ms inference, 5.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 44.2ms
+Speed: 3.7ms preprocess, 44.2ms inference, 4.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 46.8ms
+Speed: 6.0ms preprocess, 46.8ms inference, 4.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 36.6ms
+Speed: 4.2ms preprocess, 36.6ms inference, 3.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 36.8ms
+Speed: 5.8ms preprocess, 36.8ms inference, 5.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 44.1ms
+Speed: 5.7ms preprocess, 44.1ms inference, 3.9ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 30.0ms
+Speed: 5.1ms preprocess, 30.0ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 32.2ms
+Speed: 4.6ms preprocess, 32.2ms inference, 3.2ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 29.8ms
+Speed: 6.0ms preprocess, 29.8ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 33.4ms
+Speed: 4.3ms preprocess, 33.4ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 32.2ms
+Speed: 4.0ms preprocess, 32.2ms inference, 1.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 25.5ms
+Speed: 4.0ms preprocess, 25.5ms inference, 2.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 31.9ms
+Speed: 4.7ms preprocess, 31.9ms inference, 5.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 98.2ms
+Speed: 13.2ms preprocess, 98.2ms inference, 21.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 117.9ms
+Speed: 10.1ms preprocess, 117.9ms inference, 21.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 70.9ms
+Speed: 6.7ms preprocess, 70.9ms inference, 23.2ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 44.3ms
+Speed: 11.5ms preprocess, 44.3ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 28.1ms
+Speed: 4.6ms preprocess, 28.1ms inference, 4.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 49.9ms
+Speed: 4.6ms preprocess, 49.9ms inference, 7.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 42.4ms
+Speed: 4.4ms preprocess, 42.4ms inference, 7.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 107.2ms
+Speed: 14.8ms preprocess, 107.2ms inference, 4.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 94.5ms
+Speed: 10.5ms preprocess, 94.5ms inference, 3.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 99.4ms
+Speed: 3.5ms preprocess, 99.4ms inference, 10.4ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 133.4ms
+Speed: 9.6ms preprocess, 133.4ms inference, 4.6ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 119.6ms
+Speed: 9.9ms preprocess, 119.6ms inference, 5.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 77.3ms
+Speed: 11.0ms preprocess, 77.3ms inference, 3.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 139.8ms
+Speed: 9.3ms preprocess, 139.8ms inference, 11.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 180.7ms
+Speed: 12.1ms preprocess, 180.7ms inference, 14.7ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 48.8ms
+Speed: 4.6ms preprocess, 48.8ms inference, 2.5ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 31.6ms
+Speed: 3.3ms preprocess, 31.6ms inference, 3.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 69.3ms
+Speed: 3.7ms preprocess, 69.3ms inference, 5.2ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 106.9ms
+Speed: 6.1ms preprocess, 106.9ms inference, 6.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 39.1ms
+Speed: 4.5ms preprocess, 39.1ms inference, 4.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 93.5ms
+Speed: 4.0ms preprocess, 93.5ms inference, 10.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 66.7ms
+Speed: 7.5ms preprocess, 66.7ms inference, 11.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 95.2ms
+Speed: 9.1ms preprocess, 95.2ms inference, 9.8ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 91.2ms
+Speed: 5.8ms preprocess, 91.2ms inference, 8.1ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 101.5ms
+Speed: 9.6ms preprocess, 101.5ms inference, 4.3ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 120.6ms
+Speed: 6.4ms preprocess, 120.6ms inference, 45.4ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 34.6ms
+Speed: 4.1ms preprocess, 34.6ms inference, 4.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 (no detections), 82.6ms
+Speed: 7.9ms preprocess, 82.6ms inference, 5.0ms postprocess per image at shape (1, 3, 320, 416)
+
+0: 320x416 1 Weeds, 82.6ms
+Speed: 13.6ms preprocess, 82.6ms inference, 6.8ms postprocess per image at shape (1, 3, 320, 416)

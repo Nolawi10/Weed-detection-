@@ -1,5 +1,5 @@
 
-https://github.com/Nolawi10/Weed-detection-/blob/d96f5e3545e9db67f361cb003a5ee8518d089808/IMG_20260415_084027_015.jpg
+  ![Alt text]([image-url-here](https://github.com/Nolawi10/Weed-detection-/blob/d96f5e3545e9db67f361cb003a5ee8518d089808/IMG_20260415_084027_015.jpg)) 
 
 # 🌿 Django Weed Detection Application
 

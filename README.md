@@ -1,3 +1,6 @@
+
+https://github.com/Nolawi10/Weed-detection-/blob/d96f5e3545e9db67f361cb003a5ee8518d089808/IMG_20260415_084027_015.jpg
+
 # 🌿 Django Weed Detection Application
 
 A comprehensive Django-based web application for real-time weed detection using YOLO (You Only Look Once) deep learning model. The application supports multiple camera sources including built-in webcams, Android IP Webcam devices, and video file processing.
